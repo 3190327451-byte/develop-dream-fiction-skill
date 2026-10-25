@@ -1,0 +1,5 @@
+interface:
+  display_name: "梦女文学研究与开发"
+  short_description: "研究梦角与关系，以开放式人文和科学概念转译粗糙情感"
+  default_prompt: "使用 $develop-dream-fiction 研究人物与关系，并从宗教、神话、哲学、心理学、文学和科学中开放选材，把我的粗糙想法转译为准确、有感染力的表达。"
+
